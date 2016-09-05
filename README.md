@@ -1,6 +1,6 @@
 # pullword
 
-TODO: Write a description here
+a package for Crystal project using (pullword)[http://pullword.com/]
 
 ## Installation
 
