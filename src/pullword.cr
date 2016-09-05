@@ -17,7 +17,7 @@ module Pullword
       next if word.size == 0
       final_word, possibility = word.split(":")
       if possibility.to_f >= threshold
-        words_list << word
+        words_list << final_word
       end
     end
     words_list
