@@ -1,6 +1,6 @@
 # pullword
 
-a package for Crystal project using (pullword)[http://pullword.com/]
+A package to use [pullword](http://pullword.com/). Written in Crystal.
 
 ## Installation
 
