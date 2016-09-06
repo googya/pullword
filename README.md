@@ -38,4 +38,4 @@ When developing Crystal project, you may want some debugging tools like irb in R
 
 ## Contributors
 
-- [[googya]](https://github.com/[googya]) leslie.wen - creator, maintainer
+- [googya](https://github.com/googya) leslie.wen - creator, maintainer
