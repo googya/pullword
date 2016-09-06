@@ -26,7 +26,7 @@ Pullword.pullword("湖北大学城市学院是个好学院", 0.6)
 
 ## Development
 
-when developing Crystal project, you may want some debugger tools like irb in Ruby. Luckly, there is one, crystal-icr
+When developing Crystal project, you may want some debugging tools like irb in Ruby. Luckly, there is one, [crystal-icr](https://github.com/greyblake/crystal-icr)
 
 ## Contributing
 
