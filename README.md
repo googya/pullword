@@ -24,9 +24,6 @@ Pullword.pullword("湖北大学城市学院是个好学院", 0.6)
 # => ["湖北:0.817187", "湖北大学:1", "北大:0.727944", "北大学城:0.959108", "大学:0.803232", "大学城:0.930259", "城市:0.821246", "城市学院:0.878604", "学院:0.820484", "是个:0.643618", "学院:0.93359"]
 ```
 
-
-TODO: Write usage instructions here
-
 ## Development
 
 when developing Crystal project, you may want some debugger tools like irb in Ruby. Luckly, there is one, crystal-icr
